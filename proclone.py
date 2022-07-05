@@ -89,9 +89,9 @@ imt="-M1472=="
 ak="TOU-"
 myid=uuid.uuid4().hex[:10].upper()
 try:
-	key1 = open('/data/data/com.termux/files/usr/bin/.mrBALOCH-cov', 'r').read()
+	key1 = open('/https://github.com/MRRAKIB-404/rrsc/blob/main/appro.txt', 'r').read()
 except:
-	kok=open('/data/data/com.termux/files/usr/bin/.mrBALOCH-cov', 'w')
+	kok=open('/https://github.com/MRRAKIB-404/rrsc/blob/main/appro.txt', 'w')
 	kok.write(myid+imt)
 	kok.close()
 def login():
